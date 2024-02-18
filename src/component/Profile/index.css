@@ -1,0 +1,23 @@
+.profile-card {
+  width: 40%;
+  margin: 10px;
+}
+.card {
+  width: 100%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+}
+.profile-img {
+  width: 20%;
+}
+.unorder-list {
+  color: #ffffff;
+  padding: 0;
+  list-style-type: none;
+}
+.employment-heading {
+  color: #ffffff;
+}
+.list {
+  display: flex;
+}

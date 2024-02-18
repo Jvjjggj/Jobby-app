@@ -1,0 +1,25 @@
+.home-section {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #f8fafc;
+}
+.home-details {
+  padding: 50px 30px 50px 30px;
+  color: #f8fafc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.find-btn {
+  align-self: flex-start;
+  background-color: #f8fafc;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
